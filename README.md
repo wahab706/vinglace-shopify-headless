@@ -41,3 +41,6 @@ npm run build
 ```bash
 npm run dev
 ```
+
+## For Complete documentation
+https://docs.google.com/document/d/1q2TaAskXmT7GzDzqTsf7cbennfI_nyot27VqL_h-hJA/edit?usp=sharing
