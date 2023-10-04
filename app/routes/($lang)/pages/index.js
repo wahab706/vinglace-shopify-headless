@@ -1,0 +1,6 @@
+export {AboutUs} from './AboutUs'
+export {ContactUs} from './ContactUs'
+export {CorporateGifting} from './CorporateGifting'
+export {OurCause} from './OurCause'
+export {Wedding} from './Wedding'
+export {ThankYouPage} from './ThankYouPage'
